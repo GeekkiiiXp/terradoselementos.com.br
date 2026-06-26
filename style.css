@@ -1,0 +1,36 @@
+
+body{
+  
+  margin: 12px;
+  padding: 12px;
+  box-sizing: border-box;
+  background-color: white;
+  
+}
+h1{
+  border: 3px solid black;
+  margin: 12px;
+  padding: 10px;
+  border-radius: 15px
+}
+.fotinha-logo{
+  border: 5px solid black;
+  margin: 4px;
+  border-radius: 20px
+}
+.foguinhozinho{
+  position: relative;
+  right: -250px;
+}
+.rainhozinho{
+  position: relative;
+  right: 300px;
+}
+.aguazinha{
+  position: relative;
+  right: 70px;
+}
+.fotinha-logo{
+  position: relative;
+  left: -100px;
+}
